@@ -26,7 +26,7 @@ Je recherche un **stage ou une alternance** en développement d'applications.
 
 ## Expériences professionnelles
 
-**Développeur · Tiramigo** · depuis août 2026  
+**Développeur · Tiramigo** · depuis septembre 2026  
 Application de logistique en production pour un service de livraison de tiramisu en Île-de-France : commandes Shopify, gestion du stock, calcul des tournées, feuilles de route des livreurs, suivi des clients et des paiements (TypeScript, Node.js).
 
 **Stage de développement · Groupe Al Omrane (Rabat-Salé-Kénitra)** · juillet–août 2026  
