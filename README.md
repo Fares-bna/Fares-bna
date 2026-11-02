@@ -1,7 +1,7 @@
 # Bonjour, je suis Fares Bennani
 
 Étudiant en **BUT 3 Informatique**, parcours *Réalisation d'applications : conception, développement, validation*.  
-Je recherche un **stage ou une alternance** en développement d'applications.
+Je recherche un **stage de 14 à 16 semaines à partir du 8 mars 2027** en développement d'applications.
 
 **Portfolio** : [fares-bna.github.io/portfolio](https://fares-bna.github.io/portfolio/)
 
